@@ -1,0 +1,11 @@
+GET   http://127.0.0.1:5000/item/hello
+
+
+
+# POST http://127.0.0.1:5000/item/hello
+# Content-Type: application/json
+
+# {
+ 
+#   "price" : 20.2
+# }
